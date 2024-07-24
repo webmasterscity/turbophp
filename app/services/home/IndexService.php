@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Services\Home;
+namespace app\services\home;
 
 
-use App\Services\Service;
-use App\Repositories\HomeRepository;
+use app\services\Service;
+use app\repositories\HomeRepository;
 class IndexService extends Service
 {
  

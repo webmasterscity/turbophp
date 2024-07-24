@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Controller\Home;
+namespace app\controller\home;
 
-use App\Controller\Controller;
-use App\Services\Home\IndexService;
-use App\Validations\IndexValidation;
+use app\controller\Controller;
+use app\services\home\IndexService;
+use app\validations\IndexValidation;
 use support\Request;
 
 class IndexController extends Controller
